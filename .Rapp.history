@@ -1,0 +1,4 @@
+##Test function makeCacheMatrix()
+m <- matrix(c(4,7,2,6,7,9,1,2,3), nrow = 3, ncol = 3)
+fun_matrix <- makeCacheMatrix()
+ls()
